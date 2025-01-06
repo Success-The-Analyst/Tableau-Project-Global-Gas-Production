@@ -5,6 +5,7 @@ This project provides an interactive visualization and detailed insights into gl
 
 ## Screenshot
 Below is a screenshot of Global Gas Production Analysis:
+
 ![Global-Oil-Production](https://github.com/user-attachments/assets/e074bf4d-e566-4283-9ea5-c35fa7c1ce38)
 
 ## Purpose
