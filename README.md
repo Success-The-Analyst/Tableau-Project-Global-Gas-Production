@@ -3,6 +3,10 @@
 ## Overview
 This project provides an interactive visualization and detailed insights into global gas production from 1992 to 2022. The data highlights the cumulative gas production of countries across multiple continents, with a particular focus on trends and shifts in production during this period. The analysis includes a visual representation of the gas production by country, as well as a breakdown by region and overall global contributions.
 
+## Screenshot
+Below is a screenshot of Global Gas Production Analysis:
+![Global-Oil-Production](https://github.com/user-attachments/assets/e074bf4d-e566-4283-9ea5-c35fa7c1ce38)
+
 ## Purpose
 The objective of this project is to analyze and present global gas production data in an intuitive manner, enabling users to explore and understand the following key aspects:
 - The cumulative gas production of each country over the 30-year period.
